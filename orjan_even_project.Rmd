@@ -1,0 +1,16 @@
+---
+title: "orjan_even_project"
+author: "Even Grindstad Brovold"
+date: "10 september 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, cars, }
+cars
+
+```
+
